@@ -12,4 +12,7 @@ Using the queries from above data exploration and modifying them a bit, a tablea
 The data was raw, using SQL the records were modified to help an analyst perform data analysis on it. The NULL records were dealt using joins and the Y/N were converted to Yes/No since both formats exists in the data. <br>
 
 ## Correlation of gross earnings in the movies dataset <br>
-Using python and libraries such as numpy, pandas, seaborn and matplotlib; I found out that the budget and votes have the highest correlation with the gross earnings for a movie.
+Using python and libraries such as numpy, pandas, seaborn and matplotlib; I found out that the budget and votes have the highest correlation with the gross earnings for a movie. <br>
+
+## Making a PowerBI dashboard <br>
+Used SQL and PowerBI to filter and make columns which help us analyse the revenue and trends of a hotel business by creating a dashboard with the filtered data.
