@@ -143,17 +143,14 @@ This project demonstrates:
 
 ## Project Structure
 
-```text
-/SQL
-    01_schema.sql
-    02_data_cleaning.sql
 
-/ERD
-    schema_diagram.png
+## Repository Contents
 
-/Documentation
-    Data Dictionary & Data Quality Assessment.docx
-```
+| Section | Description |
+|---|---|
+| [Queries](./Queries) | Cleaning, transformation, and analytics queries |
+| [ERD](./ERD) | Database schema diagrams |
+| [Documentation](./Documentation) | Project presentation deck |
 
 ---
 
